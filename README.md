@@ -19,6 +19,10 @@ import pygwalker as pyg
 ```
 
 
+https://user-images.githubusercontent.com/112563020/222399505-0e98b872-068a-44d1-afcf-fa8aec1c2582.mp4
+
+
+
 ## Summary
 
 **PyGWalker has provided one of the most interactive experiences and nicest-looking setups I have come across with EDA libraries in a Jupyter notebook. 
