@@ -12,6 +12,15 @@ It allows data scientists to analyze data and visualize patterns with simple dra
 import pandas as pd
 import pygwalker as pyg
 '''
+
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+
 ## Summary
 
 **PyGWalker has provided one of the most interactive experiences and nicest-looking setups I have come across with EDA libraries in a Jupyter notebook. 
