@@ -1,6 +1,7 @@
 # Using-Tableau-in-jupyter
-**$\color{red}{\text{A new and quick method for data visualisation in Jupyter}}$ **
-**$\color{red}{\text{A new and quick method for data visualisation in Jupyter}}$ **
+
+## $\color{red}{\text{A new and quick method for data visualisation in Jupyter}}$
+
 # PyGWalker: A Python Library for Exploratory Data Analysis with Visualization
 
 PyGWalker can simplify your Jupyter Notebook data analysis and data visualization workflow, by turning your pandas dataframe into a Tableau-style User Interface for visual exploration.
