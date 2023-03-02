@@ -9,6 +9,9 @@ PyGWalker (pronounced like "Pig Walker", just for fun) is named as an abbreviati
 It integrates Jupyter Notebook (or other jupyter-based notebooks) with Graphic Walker, a different type of open-source alternative to Tableau. 
 It allows data scientists to analyze data and visualize patterns with simple drag-and-drop operations.
 
+```ruby
+! pip install pygwalker
+```
 
 ```ruby
 import pandas as pd
