@@ -8,16 +8,11 @@ PyGWalker can simplify your Jupyter Notebook data analysis and data visualizatio
 PyGWalker (pronounced like "Pig Walker", just for fun) is named as an abbreviation of "Python binding of Graphic Walker". 
 It integrates Jupyter Notebook (or other jupyter-based notebooks) with Graphic Walker, a different type of open-source alternative to Tableau. 
 It allows data scientists to analyze data and visualize patterns with simple drag-and-drop operations.
-'''
-import pandas as pd
-import pygwalker as pyg
-'''
 
 
 ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+import pandas as pd
+import pygwalker as pyg
 ```
 
 
